@@ -1,8 +1,10 @@
-<h3 align="left">Connect with me:</h3>
+<hr>
+<h3 align="left">Connect</h3>
 <p align="left">
 <a href="https://www.facebook.com/tanmoy.mht/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mhtanmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
+<hr>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtanmoy&layout=compact"> <br><br>
 
