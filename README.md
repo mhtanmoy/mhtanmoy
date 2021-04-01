@@ -1,7 +1,6 @@
-<img align="right" width="320px" alt="GIF" src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtanmoy&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=mhtanmoy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+<img align="right" width="320px" alt="GIF" src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" />
 <br>
 <h3 align="left">Languages and Tools I Use</h3>
 <p align="left">
