@@ -1,9 +1,9 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" />
+<img align="right" width="200px" alt="GIF" src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtanmoy&layout=compact"> <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=mhtanmoy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 <br>
-<h3 align="left">Languages and Tools I Use</h3><hr>
+<h3 align="left">Languages and Tools I Use</h3>
 <p align="left">
         <a href="https://github.com/mhtanmoy" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://github.com/mhtanmoy" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
