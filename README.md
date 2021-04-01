@@ -1,14 +1,4 @@
-
-<h3 align="left">contact</h3>
-<p align="left">
-<hr>
-<a href="https://www.facebook.com/tanmoy.mht/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mhtanmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a><hr>
-</p>
-
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtanmoy&layout=compact"> <br><br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=mhtanmoy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br>
 <h3 align="left">Languages and Tools I Use</h3><hr>
@@ -21,4 +11,10 @@
       <a href="https://github.com/mhtanmoy" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://github.com/mhtanmoy" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="react" width="40" height="40"/> </a><hr>
     </p>
+<h3 align="left">contact</h3>
+<p align="left">
+<hr>
+<a href="https://www.facebook.com/tanmoy.mht/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mhtanmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a><hr>
+</p>
 
