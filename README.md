@@ -1,4 +1,4 @@
-<img src="https://loading.io/asset/467054" />
+<img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtanmoy&layout=compact"> <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=mhtanmoy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
