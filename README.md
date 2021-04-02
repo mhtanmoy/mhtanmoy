@@ -13,7 +13,6 @@
     </p>
 <h3 align="left">contact</h3>
 <p align="left">
-<hr>
 <a href="https://www.facebook.com/tanmoy.mht/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mhtanmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a><hr>
 </p>
