@@ -15,6 +15,6 @@
 <p align="left">
 <a href="https://www.facebook.com/tanmoy.mht/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mhtanmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mh-tanmoy-71114520b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahadi-hasan-tanmoy-71114520b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
 
