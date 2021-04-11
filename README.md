@@ -11,7 +11,6 @@
       <a href="https://github.com/mhtanmoy" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://github.com/mhtanmoy" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="react" width="40" height="40"/> </a><hr>
     </p>
-    
 <h3 align="left">contact</h3>
 <p align="left">
 <a href="https://www.facebook.com/tanmoy.mht/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahuldkjain" height="30" width="40" /></a>
