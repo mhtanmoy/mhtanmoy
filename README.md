@@ -1,4 +1,4 @@
-<img width="290px" height="220" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
+<img align="right" width="290px" height="220" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
 <br>
 <h3 align="left">Languages and Tools I Use</h3>
 <p align="left">
