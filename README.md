@@ -1,5 +1,4 @@
-<img align="right" width="290px" height="220" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
-<img src="https://github-readme-stats.vercel.app/api?username=mhtanmoy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+<img width="290px" height="220" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
 <br>
 <h3 align="left">Languages and Tools I Use</h3>
 <p align="left">
