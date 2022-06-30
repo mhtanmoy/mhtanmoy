@@ -1,5 +1,5 @@
 
-<img width="290px" height="220" alt="GIF" src="https://media.giphy.com/media/r8iF8ZVnq2bQN5hwVt/giphy.gif" />
+
 <br>
 <h3 align="left">Languages and Tools I Use</h3>
 <p align="left">
